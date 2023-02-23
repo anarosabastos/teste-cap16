@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color: #D8F2F2;
+    font-family: 'Hind', sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    color: #03A6A6;
+    font-size: 25px;
+}
+
+h2 {
+    color: #BF8B2A;
+    font-size: 20px;
+}
+
+nav {
+    background-color: #03A6A6;
+    padding: 5px;
+    box-shadow: 0px 5px 5px; color: #bf8b2a88;
+}
+
+
