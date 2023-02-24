@@ -22,4 +22,16 @@ nav {
     box-shadow: 0px 5px 5px; color: #bf8b2a88;
 }
 
-
+.cafe {
+    width: 300px;
+    height: 250px;
+    background-color: #F2CC0C;
+    border-style: solid;
+    border-width: 10px;
+    border-color:#F2CC0C;
+    padding: 20px;
+    outline-width: 10px;
+    outline-style: solid;
+    outline-color: #BF8B2A;
+    margin: 40px 10px;
+}
