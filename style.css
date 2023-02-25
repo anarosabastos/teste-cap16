@@ -13,7 +13,8 @@ h1 {
 
 h2 {
     color: #BF8B2A;
-    font-size: 20px;
+    font-size: 15px;
+    
 }
 
 nav {
@@ -23,15 +24,47 @@ nav {
 }
 
 .cafe {
-    width: 300px;
-    height: 250px;
+    width: 500px;
+    height: 190px;
     background-color: #F2CC0C;
     border-style: solid;
     border-width: 10px;
     border-color:#F2CC0C;
-    padding: 20px;
-    outline-width: 10px;
+    padding: 10px;
+    outline-width: 5px;
     outline-style: solid;
     outline-color: #BF8B2A;
     margin: 40px 10px;
+    text-align:center;
 }
+
+.oceano {
+    width: 500px;
+    height: 190px;
+    background-color: #F2CC0C;
+    border-style: solid;
+    border-width: 10px;
+    border-color:#F2CC0C;
+    padding: 2px;
+    outline-width: 5px;
+    outline-style: solid;
+    outline-color: #BF8B2A;
+    margin: 0px 10px;
+    text-align: left;
+    display: inline-flex;
+    font-size: 15px;
+    
+}
+
+img {
+    position: sticky;
+    float: right; 
+}
+
+
+
+
+
+
+
+
